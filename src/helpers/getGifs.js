@@ -1,5 +1,6 @@
 
-const apiKey = process.env.REACT_APP_GIPHY_KEY;
+// const apiKey = process.env.REACT_APP_GIPHY_KEY;
+const apiKey = 'BNnaJ6x7hEFYOOouZOdvYlhxfethn4Rr';
 
 export const getGifs = async(category, limitImages = 5) => {
 
